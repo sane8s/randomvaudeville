@@ -3,4 +3,4 @@ Random Vaudeville was developed by me as a thank you gift for a friend. She offe
 
 To use: simply press Vaudeville Me! and enjoy the random vaudeville routine that appears. Acting them out with friends is highly recommended.
 
-Random Vaudeville in actions, [saneyates.org/vaudeville](http://saneyates.org/vaudeville/)
+Random Vaudeville in action (or inaction :/), [saneyates.org/vaudeville](http://saneyates.org/vaudeville/)
