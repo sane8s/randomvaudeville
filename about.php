@@ -1,11 +1,12 @@
-<?php include 'includes/header.php';
+<?php
+include 'includes/header.php';
 ?>
-<div id="content">
-	<!--<span class="graytitle">Random Vaudeville</span>-->
-	<ul class="pageitem">
-		<li class="textbox"><span class="header">About Random Vaudeville</span>
-		<p><?php include 'includes/about.txt';?></p>		
-		</li>
-	</ul>
+<!-- Page content -->
+<div class="container-sm mt-5 text-white">
+  <div class="row m-5">
+  	<div><?php include 'includes/about.txt';?></div>
+  </div>
 </div>
-<?php include 'includes/footer.php';
+<?php 
+include 'includes/footer.php';
+?>
